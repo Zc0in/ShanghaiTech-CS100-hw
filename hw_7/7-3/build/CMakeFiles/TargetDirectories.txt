@@ -1,0 +1,3 @@
+/home/nic/CS100_hw/hw_7/7-3/build/CMakeFiles/rebuild_cache.dir
+/home/nic/CS100_hw/hw_7/7-3/build/CMakeFiles/k-mean.dir
+/home/nic/CS100_hw/hw_7/7-3/build/CMakeFiles/edit_cache.dir

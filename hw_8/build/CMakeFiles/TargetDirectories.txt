@@ -1,0 +1,7 @@
+/home/nic/CS100_hw/hw_8/build/CMakeFiles/rebuild_cache.dir
+/home/nic/CS100_hw/hw_8/build/CMakeFiles/edit_cache.dir
+/home/nic/CS100_hw/hw_8/build/test/CMakeFiles/rebuild_cache.dir
+/home/nic/CS100_hw/hw_8/build/test/CMakeFiles/edit_cache.dir
+/home/nic/CS100_hw/hw_8/build/test/CMakeFiles/test_newton.dir
+/home/nic/CS100_hw/hw_8/build/test/CMakeFiles/test_polynomials.dir
+/home/nic/CS100_hw/hw_8/build/test/CMakeFiles/test_lambdas.dir

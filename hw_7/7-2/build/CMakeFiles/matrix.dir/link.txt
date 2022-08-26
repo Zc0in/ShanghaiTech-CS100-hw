@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/matrix.dir/rational.cpp.o CMakeFiles/matrix.dir/tests.cpp.o -o matrix 

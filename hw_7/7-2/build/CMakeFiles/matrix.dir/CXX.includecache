@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nic/CS100_hw/hw_7/7-2/matrix.hpp
+iostream
+-
+vector
+-
+
+/home/nic/CS100_hw/hw_7/7-2/rational.hpp
+iostream
+-
+algorithm
+-
+
+/home/nic/CS100_hw/hw_7/7-2/tests.cpp
+iostream
+-
+rational.hpp
+/home/nic/CS100_hw/hw_7/7-2/rational.hpp
+rational.hpp
+/home/nic/CS100_hw/hw_7/7-2/rational.hpp
+matrix.hpp
+/home/nic/CS100_hw/hw_7/7-2/matrix.hpp
+matrix.hpp
+/home/nic/CS100_hw/hw_7/7-2/matrix.hpp
+
